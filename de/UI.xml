@@ -17,7 +17,7 @@
             <btn_forums>Diskussionsforum</btn_forums>
             <btn_report>Einen Fehler melden</btn_report>
             <btn_steam>Steam Workshop</btn_steam>
-            <text>Willkommen bei SimAirport Early Access! Wir hoffen, dass du das Spiel bisher genießt. Wir empfehlen dir die Foren zu besuchen, aktiv zu sein und an der Community teilzunehmen und neben den Entwicklern eine aktive Rolle im Entwicklungsprozess zu übernehmen. 
+            <text>Willkommen bei SimAirport Early Access! Wir hoffen, dass du das Spiel bisher genießt. Wir empfehlen dir, die Foren zu besuchen, aktiv zu sein, an der Community teilzunehmen und neben den Entwicklern eine aktive Rolle im Entwicklungsprozess zu übernehmen. 
 			
 Vielen Dank für deine Unterstützung und danke, dass du uns geholfen hast, SimAirport zum besten Management-Spiel im Tycoon-Stil zu machen!</text>
         </EADialog>
@@ -38,8 +38,8 @@ Vielen Dank für deine Unterstützung und danke, dass du uns geholfen hast, SimA
                     <tt>
                         <desc0>Wähle deinen Spielstil</desc0>
                         <desc1>Nutze dein Können um Profit zu machen!</desc1>
-                        <desc2>Geld kann nicht ausgegeben werden solange du einen negativen Kontostand hast</desc2>
-                        <desc3>Bankrott und Spielende wenn du 48 Stunden lang einen negativen Kontostand hast</desc3>
+                        <desc2>Geld kann nicht ausgegeben werden, solange du einen negativen Kontostand hast</desc2>
+                        <desc3>Bankrott und Spielende, wenn du 48 Stunden lang einen negativen Kontostand hast</desc3>
                         <desc4>Du musst auf einer mittelgroßen Karte beginnen</desc4>
                         <desc5>Unbegrenzte Mittel, kein Bankrott!</desc5>
                         <desc6>Ein-/Ausgaben werden immer noch verfolgt!</desc6>
@@ -50,10 +50,10 @@ Vielen Dank für deine Unterstützung und danke, dass du uns geholfen hast, SimA
                 <size>
                     <title>Kartengröße</title>
                     <tt0>
-                        <desc0>Wenn du im Karrieremodus spielst beginnst du auf einer {0} Karte in den Dimensionen ({1}x{2}). Du kannst expandieren und mehr Land kaufen um dem Platzbedarf deines wachsenden Flughafens gerecht zu werden!</desc0>
+                        <desc0>Wenn du im Karrieremodus spielst, beginnst du auf einer {0} Karte in den Dimensionen ({1}x{2}). Du kannst expandieren und mehr Land kaufen um dem Platzbedarf deines wachsenden Flughafens gerecht zu werden!</desc0>
                     </tt0>
                     <tt1>
-                        <desc0>Wenn du im Sandkastenmodus spielst kannst du die Größe der Karte wählen mit der du starten möchtest. Du kannst später zusätzliches Land kaufen um zu expandieren, dies ändert nur die Startgröße der Karte. Bitte beachte dass die Grundsteuer bei größeren Landstücken etwas höher ist!</desc0>
+                        <desc0>Wenn du im Sandkastenmodus spielst, kannst du die Größe der Karte wählen mit der du starten möchtest. Du kannst später zusätzliches Land kaufen um zu expandieren, dies ändert nur die Startgröße der Karte. Bitte beachte dass die Grundsteuer bei größeren Landstücken etwas höher ist!</desc0>
                     </tt1>
                 </size>
                 <difficulty>
@@ -85,7 +85,7 @@ Vielen Dank für deine Unterstützung und danke, dass du uns geholfen hast, SimA
                 <edgeBranchNotice>Das Überschreiben von Dateien ist als Vorsichtsmaßnahme in Edge-Versionen von SimAirport nicht erlaubt. Bitte gib jedes Mal einen einzigartigen Namen ein wenn du dein Spiel speicherst.</edgeBranchNotice>
                 <overwrite>Bestehenden Spielstand überschreiben?</overwrite>
                 <search>Zeigt {0} von {1} Spielständen an, die mit "{2}" übereinstimmen.
-Um alle bestehenden Spielstände anzuzeigen lösche den Dateinamen oben im Eingabefeld.</search>
+Um alle bestehenden Spielstände anzuzeigen, lösche den Dateinamen oben im Eingabefeld.</search>
             </save>
             <load>
                 <title>Spiel laden</title>
@@ -103,8 +103,8 @@ Dadurch wird der ausgewählte Spielstand dauerhaft von deinem Computer entfernt.
             <title>Mitarbeiter</title>
             <tabs>
                 <hire>
-                    <title>Mitarbeiter anwerben</title>
-                    <btn>{0} anwerben</btn>
+                    <title>Mitarbeiter einstellen</title>
+                    <btn>{0} einstellen</btn>
                 </hire>
                 <view>
                     <title>Mitarbeiter verwalten</title>
@@ -158,17 +158,17 @@ Dadurch wird der ausgewählte Spielstand dauerhaft von deinem Computer entfernt.
                 <t2>
                     <title>Flugverträge</title>
                     <col0>Flugzeugtyp</col0>
-                    <col1>Ankunftslot</col1>
-                    <col2>Abflugslot</col2>
+                    <col1>Ankunftsslot</col1>
+                    <col2>Abflugsslot</col2>
                     <col3>Gate/Bahnl.(mind.)</col3>
                     <tt>
                         <title>{0} {1} Angebote </title>
                         <desc1>Gesamt-Unterzeichnungsbonus: {0}</desc1>
-                        <desc2> Erhalte sofort den Unterzeichnungsbonus und ermöglicht dass diese Flüge zu deinem Hauptflugplan hinzugefügt werden. </desc2>
+                        <desc2> Erhalte sofort den Unterzeichnungsbonus und ermöglicht, dass diese Flüge zu deinem Hauptflugplan hinzugefügt werden. </desc2>
                         <desc3>{0} Angebote sind GESPERRT </desc3>
                         <desc4> Dein Flughafen erfüllt noch nicht die Anforderungen für die Flugzeugtypen.</desc4>
                         <desc5> Du musst einen FVK Tower bauen um mehr als 10 Flüge pro Tag aufnehmen zu können. </desc5>
-                        <desc6> Benötigt mindestens eine Start- und Landebahn die über Beleuchtung verfügt.</desc6>
+                        <desc6> Benötigt mindestens eine Start- und Landebahn, die über Beleuchtung verfügt.</desc6>
                         <desc7> Benötigt eine Start- und Landebahn von mindestens {0} Länge </desc7>
                         <desc8> {0} oder größer </desc8>
                     </tt>
@@ -205,7 +205,7 @@ Dadurch wird der ausgewählte Spielstand dauerhaft von deinem Computer entfernt.
             <col8>Status</col8>
             <tt>
                 <title>Spalten bearbeiten</title>
-                <desc1>Klicke hier um zu ändern welche Spalten angezeigt bzw. verborgen werden. Verwende die Skalierungsfunktion (unten rechts) um die Fenstergröße anzupassen.</desc1>
+                <desc1>Klicke hier, um zu ändern welche Spalten angezeigt bzw. verborgen werden. Verwende die Skalierungsfunktion (unten rechts) um die Fenstergröße anzupassen.</desc1>
             </tt>
         </flightstatus>
         <build>
@@ -225,7 +225,7 @@ Dadurch wird der ausgewählte Spielstand dauerhaft von deinem Computer entfernt.
                 <comfort>Komfort</comfort>
                 <ops>Ops</ops>
                 <structures>Strukturen</structures>
-                <runwayupgrades>Star-/Landebahn-Upgrades</runwayupgrades>
+                <runwayupgrades>Start-/Landebahn-Upgrades</runwayupgrades>
                 <gateupgrades>Gate-Upgrades</gateupgrades>
                 <searchresults>Suche...</searchresults>
                 <allresults>Alle Ergebnisse</allresults>
@@ -237,7 +237,7 @@ Dadurch wird der ausgewählte Spielstand dauerhaft von deinem Computer entfernt.
                     <title>Bankdarlehen</title>
                     <loan>Aktuelles Bankdarlehen</loan>
                     <interest>Aktueller Tageszins</interest>
-                    <max>Aktuelles maximales Darlehen</max>
+                    <max>Aktuell maximales Darlehen</max>
                     <borrow>{0} Leihen</borrow>
                     <pay>Eine Zahlung von {0} vornehmen</pay>
                     <desc1>Du kannst Geld von der Bank leihen und die Bank wird dir jeden Tag Zinsen berechnen.</desc1>
@@ -249,8 +249,8 @@ Dadurch wird der ausgewählte Spielstand dauerhaft von deinem Computer entfernt.
                     <tt>Klicke, um die Details auf- oder zusammenzuklappen...</tt>
                     <col0>Beschreibung</col0>
                     <col1>Einnahmen</col1>
-                    <col2>Ausgabe</col2>
-                    <col3>Netto</col3>
+                    <col2>Ausgaben</col2>
+                    <col3>Gewinn</col3>
                 </pl>
                 <cashflow>
                     <title>Geldfluss-Graph</title>
@@ -268,12 +268,12 @@ Dadurch wird der ausgewählte Spielstand dauerhaft von deinem Computer entfernt.
             <tabs>
                 <pricing>
                     <title>Kommerzielle Preisgestaltung</title>
-                    <intro>Lege die Preise fest die die Fluggesellschaften an dich zahlen müssen. Sei vorsichtig - einige Fluggesellschaften sind kostenempfindlicher als andere Fluggesellschaften; Fluggesellschaften können sich entschließen nicht mit dir zusammenzuarbeiten wenn deine Preise zu hoch sind oder deine Flughafendienstleistungen die Kosten nicht rechtfertigen können!</intro>
-                    <rwyusage>Start-/Landebahn-Nutzungsgebühr Wie viel eine Fluggesellschaft bezahlen muss um deine Runways zu verwenden (Pro Nutzung).</rwyusage>
-                    <terminalusage>Terminal-Nutzunggebühr Wie viel eine Fluggesellschaften bezahlen muss um dein Terminal zu verwenden (Pro Passagier).</terminalusage>
+                    <intro>Lege die Preise fest, die die Fluggesellschaften an dich zahlen müssen. Sei vorsichtig - einige Fluggesellschaften sind kostenempfindlicher als andere; Fluggesellschaften können sich entschließen, nicht mit dir zusammenzuarbeiten, wenn deine Preise zu hoch sind oder deine Flughafendienstleistungen die Kosten nicht rechtfertigen können!</intro>
+                    <rwyusage>Start-/Landebahn-Nutzungsgebühr: Wieviel eine Fluggesellschaft bezahlen muss, um deine Runways zu verwenden (Pro Nutzung).</rwyusage>
+                    <terminalusage>Terminal-Nutzunggebühr: Wieviel eine Fluggesellschaften bezahlen muss, um dein Terminal zu verwenden (Pro Passagier).</terminalusage>
                     <btnsave>Neue Preise speichern</btnsave>
-                    <btnsaveerror>Vor kurzem bearbeitet. Du musst 12 Stunden warten bevor du weitere Änderungen vornehmen kannst!</btnsaveerror>
-                    <btnsavewarning>Steigende Preise können dazu führen dass Fluggesellschaften weniger an deinem Flughafen interessiert sind. Sie können sogar ihren Vertrag mit dir beenden was dich Geld kostet!! Hinweis: Du darfst die Preise nur einmal alle 12 Stunden ändern!</btnsavewarning>
+                    <btnsaveerror>Vor kurzem bearbeitet. Du musst 12 Stunden warten, bevor du weitere Änderungen vornehmen kannst!</btnsaveerror>
+                    <btnsavewarning>Steigende Preise können dazu führen, dass Fluggesellschaften weniger an deinem Flughafen interessiert sind. Sie können sogar ihren Vertrag mit dir beenden, was dich Geld kostet!! Hinweis: Du darfst die Preise nur einmal alle 12 Stunden ändern!</btnsavewarning>
                 </pricing>
                 <transport>
                     <title>Transport &amp; Lieferung</title>
@@ -290,11 +290,11 @@ Dadurch wird der ausgewählte Spielstand dauerhaft von deinem Computer entfernt.
                         </Buses>
                         <Retail>
                             <title>Handelsware</title>
-                            <description>- Füllt Lagerbestände der Geschäfte wieder auf</description>
+                            <description>Füllt Lagerbestände der Geschäfte wieder auf</description>
                         </Retail>
                         <Garbage>
                             <title>Abfall</title>
-                            <description>- Entsorgt alles aus der Abfallzone</description>
+                            <description>Entsorgt alles aus der Abfallzone</description>
                         </Garbage>
                         <LightRail>
                             <title>Stadtbahn</title>
@@ -313,7 +313,7 @@ Dadurch wird der ausgewählte Spielstand dauerhaft von deinem Computer entfernt.
                     <restrictions>Start-/Landebahnbeschränkungen</restrictions>
                     <restriction_arrival>Zulassen oder Ablehnen von Ankünften (Landungen) für diese Start-/Landebahn</restriction_arrival>
                     <restriction_departure>Zulassen oder Ablehnen von Abflügen (Starts) für diese Start-/Landebahn</restriction_departure>
-                    <restriction_common>Sei vorsichtig - Flüge werden storniert wenn sie keine verfügbare Start-/Landebahn haben die Zugang zu ihrem Gate bieten!</restriction_common>
+                    <restriction_common>Sei vorsichtig - Flüge werden storniert, wenn sie keine verfügbare Start-/Landebahn haben, die Zugang zu ihrem Gate bietet!</restriction_common>
                 </runways>
                 <fuel>
                     <title>Betankungsdienste</title>
@@ -321,47 +321,47 @@ Dadurch wird der ausgewählte Spielstand dauerhaft von deinem Computer entfernt.
                     <recurringlabel>Dauerauftrag</recurringlabel>
                     <recurringdesc>Liter pro Tag zum Marktpreis </recurringdesc>
                     <buyselllabel>Einmalig: Kaufen &amp; Verkaufen</buyselllabel>
-                    <netmoney> Netto-Geldbetrag</netmoney>
+                    <netmoney>Summe</netmoney>
                     <sellprice>Verkaufspreis</sellprice>
                     <available> {0} verfügbar</available>
                     <displayhud>Treibstoffmarkt auf HUD anzeigen?</displayhud>
                     <fuel>Treibstoff</fuel>
                     <basis>basis</basis>
-                    <pendingdelivery> Ausstehende Lieferung </pendingdelivery>
-                    <storagefees> Lagergebühren/Tag</storagefees>
+                    <pendingdelivery>Ausstehende Lieferung</pendingdelivery>
+                    <storagefees>Lagergebühren/Tag</storagefees>
                     <deliverytime>Lieferzeit</deliverytime>
                     <deliverytime2>{0} Täglich </deliverytime2>
                     <currentreserves>Aktuelle Reserven</currentreserves>
-                    <resalestatus> Verkaufsstatus</resalestatus>
+                    <resalestatus>Verkaufsstatus</resalestatus>
                     <pricingmodel>Preismodell</pricingmodel>
-                    <model1> Markt verfolgen</model1>
+                    <model1>Markt verfolgen</model1>
                     <model2>Festpreis</model2>
-                    <desc1> Es werden keine Betankungsdienste für Fluggesellschaften angeboten.</desc1>
-                    <desc2>Geschätzte Nachfrage von Morgen </desc2>
-                    <desc3>Wenn die Preise gleich bleiben werden {0} von {1} Flug/Flügen Treibstoff anfordern.</desc3>
-                    <desc4> Dies erfordert ungefähr {0} - {1} Liter Treibstoff.</desc4>
+                    <desc1>Es werden keine Betankungsdienste für Fluggesellschaften angeboten.</desc1>
+                    <desc2>Geschätzte Nachfrage für Morgen </desc2>
+                    <desc3>Wenn die Preise gleich bleiben, werden {0} von {1} Flug/Flügen Treibstoff anfordern.</desc3>
+                    <desc4>Dies erfordert ungefähr {0} - {1} Liter Treibstoff.</desc4>
                     <desc5>Gestriger Bedarf</desc5>
                     <desc6> {0} Liter angefordert</desc6>
                     <desc7> {0} Liter verkauft </desc7>
-                    <desc8> Zur Zeit wird den Fluggesellschaften keine Betankung angeboten.</desc8>
+                    <desc8>Zur Zeit wird den Fluggesellschaften keine Betankung angeboten.</desc8>
                     <desc9>Treibstoff wird an Fluggesellschaften zu einem Preis verkauft, der proportional zum schwankenden Marktpreis ist. Die Nachfrage nach Betankungsdienstleistungen wird relativ stabil bleiben, die Gewinnspanne wird jedoch schwanken. </desc9>
                     <desc10>Treibstoff wird zu einem bestimmten Preis an die Fluggesellschaften verkauft, unabhängig vom aktuellen Marktpreis. Die Nachfrage nach Betankungsdienstleistungen wird entsprechend schwanken, die Gewinnspanne bleibt jedoch stabil.</desc10>
                     <tt_opstatus>
                         <title>Betriebsstatus</title>
-                        <desc1> Anforderungen für den Verkauf von Treibstoff</desc1>
+                        <desc1>Anforderungen für den Verkauf von Treibstoff</desc1>
                         <desc2>Preismodell gewählt</desc2>
                         <desc3>Mindestens 1 Treibstofftank</desc3>
-                        <desc4> Mindestens 1 Hangar mit einem Tankfahrzeug</desc4>
+                        <desc4>Mindestens 1 Hangar mit einem Tankfahrzeug</desc4>
                         <desc5>Ein Treibstoffdepot, das die Anforderungen erfüllt</desc5>
-                        <desc6> Die Nachfrage nach Betankungsdiensten variiert je nach Fluggesellschaft, Flugzeugtyp und Preissensibilität.</desc6>
+                        <desc6>Die Nachfrage nach Betankungsdiensten variiert je nach Fluggesellschaft, Flugzeugtyp und Preissensibilität.</desc6>
                     </tt_opstatus>
                     <tt_recurring>
                         <title>Erfordert eine anfängliche Infrastruktur </title>
-                        <desc1>Wiederkehrende Aufträge können nur nach dem Bau von Treibstofflagertanks erteilt werden. .</desc1>
+                        <desc1>Wiederkehrende Aufträge können nur nach dem Bau von Treibstofflagertanks erteilt werden.</desc1>
                     </tt_recurring>
                     <tt_hud>
                         <title>Der Treibstoffmarkt</title>
-                        <desc1>Marktpreise auf einen Blick. Sie können dieses obere HUD-Bedienfeld optional im Bereich "Treibstoff" der Kommerziellen Preisgestaltung deaktivieren.</desc1>
+                        <desc1>Marktpreise auf einen Blick. Sie können dieses obere HUD-Bedienfeld optional im Bereich "Treibstoff" der kommerziellen Preisgestaltung deaktivieren.</desc1>
                     </tt_hud>
                 </fuel>
                 <maintenance>
@@ -486,7 +486,7 @@ Dadurch wird der ausgewählte Spielstand dauerhaft von deinem Computer entfernt.
                 <step10>Mod wird geprüft ...</step10>
                 <desc0>Bitte warte, während dein Spiel gespeichert, zu Steam hochgeladen und im SimAirport-Workshop veröffentlicht wird!</desc0>
                 <desc1>Dein Element wurde aktualisiert.</desc1>
-                <desc2>Bitte warte, während deine Mod bearbeitet &amp; zu Steam hochgeladen -- und im SimAirport-Workshop veröffentlicht wird!</desc2>
+                <desc2>Bitte warte, während deine Mod bearbeitet &amp; zu Steam hochgeladen und im SimAirport-Workshop veröffentlicht wird!</desc2>
                 <desc3>Dein Element wurde im Workshop veröffentlicht.</desc3>
                 <tt>
                     <title>Nutzungsbedingungen</title>
@@ -565,12 +565,12 @@ Dadurch wird der ausgewählte Spielstand dauerhaft von deinem Computer entfernt.
             </aircraft>
             <tt0>
                 <title>Nicht autorisiert</title>
-                <desc0>Du darfst Mods nur aktualisieren oder veröffentlichen wenn du der ursprüngliche Autor/Besitzer bist.</desc0>
+                <desc0>Du darfst Mods nur aktualisieren oder veröffentlichen, wenn du der ursprüngliche Autor/Besitzer bist.</desc0>
             </tt0>
             <tt1>
-                <desc0>Diese Mod benötigt weitere Mods (benutzerdefinierte Flugzeuge) um richtig zu funktionieren. Diese anderen benötigten Mods MÜSSEN zu Steam hochgeladen werden bevor diese Mod hochgeladen werden kann.</desc0>
+                <desc0>Diese Mod benötigt weitere Mods (benutzerdefinierte Flugzeuge) um richtig zu funktionieren. Diese anderen benötigten Mods MÜSSEN zu Steam hochgeladen werden, bevor diese Mod hochgeladen werden kann.</desc0>
                 <desc1>Diese Mod benötigt benutzerdefinierte Bilder bevor sie zum Steam Workshop hochgeladen werden kann.</desc1>
-                <desc2>Mods können nur zum Steam Workshop hochgeladen werden wenn sie benutzerdefinierte Bilder beinhalten.</desc2>
+                <desc2>Mods können nur zum Steam Workshop hochgeladen werden, wenn sie benutzerdefinierte Bilder beinhalten.</desc2>
             </tt1>
             <tt2>
                 <title>Demo-Spawn nicht möglich</title>
@@ -593,7 +593,7 @@ Dadurch wird der ausgewählte Spielstand dauerhaft von deinem Computer entfernt.
         <zones>
             <title>Zonen</title>
             <subheading>Bereiche &amp; Räume</subheading>
-            <description>Spezifiziere welche Bereiche Ticket-Desks, Sicherheitsabfertigung, Büros, Geschäfte und mehr sein sollen.</description>
+            <description>Spezifiziere, welche Bereiche Ticket-Desks, Sicherheitsabfertigung, Büros, Geschäfte und mehr sein sollen.</description>
         </zones>
         <staff>
             <title>Personal</title>
@@ -623,7 +623,7 @@ Dadurch wird der ausgewählte Spielstand dauerhaft von deinem Computer entfernt.
         <flight_status>
             <title>Flugstatus</title>
             <subheading>Echtzeit-Ansicht der heutigen Flüge</subheading>
-            <description>Schau dir an ob die eingehenden und abfliegenden Flüge pünktlich sind, deren Boardingzahlen sowie detaillierte Flugstatusdaten.</description>
+            <description>Schau dir an, ob die eingehenden und abfliegenden Flüge pünktlich sind, deren Boardingzahlen sowie detaillierte Flugstatusdaten.</description>
         </flight_status>
         <overlay_SecureAreas>
             <title>Sicherheitsbereiche</title>
@@ -631,27 +631,27 @@ Dadurch wird der ausgewählte Spielstand dauerhaft von deinem Computer entfernt.
         </overlay_SecureAreas>
         <overlay_Environment>
             <title>Umweltansicht</title>
-            <description>Visualisiere die Auswirkungen von Pflanzen, Deko und unhygienischen Objekten auf Passagiere.</description>
+            <description>Zeigt Pflanzen, Deko und Umwelzverschmutzung</description>
         </overlay_Environment>
         <overlay_Information>
             <title>Informationsansicht</title>
-            <description>Visualisiere die Auswirkungen von Wissen abgebenden Objekten auf Passagiere.</description>
+            <description>Zeigt Infotafeln.</description>
         </overlay_Information>
         <overlay_Sectors>
             <title>Sektoransicht</title>
-            <description>Visualisiere die 'Sektoren' deines Flughafens. Dieser Bericht/dieses Tool wird zukünftig weitere Funktionen aufweisen! =)</description>
+            <description>Zeigt Sektoren deines Flughafens. Dieses Tool wird zukünftig weitere Funktionen aufweisen! =)</description>
         </overlay_Sectors>
         <overlay_PA>
             <title>PA-Anlage</title>
-            <description>Zeigt Reichweite deiner PA-Lautsprecher an</description>
+            <description>Zeigt Reichweite deiner PA-Lautsprecher</description>
         </overlay_PA>
         <overlay_paxAI>
             <title>Pax AI-Entscheidungen</title>
-            <description>Schau dir an was die Pax AI vor hat indem du diese Ansicht aktivierst &amp; dann auf einzelne Passagiere klickst! Hinweis: es handelt sich um ein Fehlerbehebungswerkzeug das wir für den Moment öffentlich zugänglich machen um zu testen ob es uns (und dir) helfen kann, AI-/Auswahl-Fehler und Gleichgewichtsstörungen zu beseitigen. Bitte entschuldige etwaige Unvollkommenheiten!</description>
+            <description>Schau dir an was die Pax AI vor, hat indem du diese Ansicht aktivierst &amp; dann auf einzelne Passagiere klickst! Hinweis: es handelt sich um ein Fehlerbehebungswerkzeug das wir für den Moment öffentlich zugänglich machen um zu testen ob es uns (und dir) helfen kann, AI-/Auswahl-Fehler und Gleichgewichtsstörungen zu beseitigen. Bitte entschuldige etwaige Unvollkommenheiten!</description>
         </overlay_paxAI>
         <bank>
             <title>Kontostand</title>
-            <desc1>Tägliche Geldfluss-Schätzung</desc1>
+            <desc1>Täglicher Geldfluss</desc1>
             <desc2>Flugbetrieb</desc2>
             <desc3>Personalkosten</desc3>
             <desc4>Ausgehend davon, dass alle Flüge vollbesetzt sind und es zu keinen Stornierungen, Verspätungen oder verpassten Flügen kommt. </desc4>
@@ -668,7 +668,7 @@ Dadurch wird der ausgewählte Spielstand dauerhaft von deinem Computer entfernt.
             <title>Passagierzufriedenheit</title>
             <desc1>Transit-Kapazität</desc1>
             <desc2>{0}/hr</desc2>
-            <desc3>Passagiere Insgesamt</desc3>
+            <desc3>Passagiere insgesamt</desc3>
             <desc4>Zufriedenheitsübersicht</desc4>
         </passengers>
         <weather>
@@ -711,7 +711,7 @@ Dadurch wird der ausgewählte Spielstand dauerhaft von deinem Computer entfernt.
         <acceptall>Alle annehmen ({0})</acceptall>
         <none>Keine</none>
         <price>Preis</price>
-        <insufficientfunds>Unzureichendes Guthaben</insufficientfunds>
+        <insufficientfunds>Zu wenig Geld</insufficientfunds>
         <na>Nicht anwendbar</na>
         <arrivals>Ankünfte</arrivals>
         <departures>Abflüge</departures>
@@ -833,7 +833,7 @@ Dadurch wird der ausgewählte Spielstand dauerhaft von deinem Computer entfernt.
             <MoveToZone>In Zone bewegen</MoveToZone>
             <MoveBoxToZone>Box in Zone bewegen</MoveBoxToZone>
             <EmptyGarbageBin>Mülleimer leeren</EmptyGarbageBin>
-            <RemoveTrashBag>Müllbeutel entsorgen</RemoveTrashBag>
+            <RemoveTrashBag>Müllsack entsorgen</RemoveTrashBag>
             <Task>Aufgabe</Task>
             <TaskCompleted>Aufgabe abgeschlossen</TaskCompleted>
             <MoveToWork>Zur Arbeit gehen</MoveToWork>
@@ -842,11 +842,11 @@ Dadurch wird der ausgewählte Spielstand dauerhaft von deinem Computer entfernt.
             <Metro3>Metro3</Metro3>
             <Metro4>Metro4</Metro4>
             <Metro5>Metro5</Metro5>
-            <RunQueue>WarteschlangeAusführen</RunQueue>
+            <RunQueue>Warteschlange Ausführen</RunQueue>
             <AbortQueue>Warteschlange verlassen</AbortQueue>
             <GetOffGate>Vom Gate weggehen</GetOffGate>
             <WaitForLuggage>Auf Gepäck warten</WaitForLuggage>
-            <StopWorkingAtSmartObject>AufhörenAnSmartObjektZuArbeiten</StopWorkingAtSmartObject>
+            <StopWorkingAtSmartObject>Aufhören zu Arbeiten</StopWorkingAtSmartObject>
             <TransitionActive>Übergang zu Aktiv</TransitionActive>
             <TransitionParked>Übergang zu Geparkt</TransitionParked>
         </fsm>
@@ -892,7 +892,7 @@ Dadurch wird der ausgewählte Spielstand dauerhaft von deinem Computer entfernt.
             <Refuel>Auftanken</Refuel>
             <BagUnload>Gepäck ausladen</BagUnload>
             <BagLoad>Gepäck einladen</BagLoad>
-            <FCBoarding>Flugbesatzung boardet</FCBoarding>
+            <FCBoarding>Flugbesatzung an Board</FCBoarding>
             <Boarding>Boarding</Boarding>
             <BoardingStartsIn>beginnt in ~{0} Min.</BoardingStartsIn>
             <Boarded>Geboardet</Boarded>
